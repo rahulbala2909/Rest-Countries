@@ -1,0 +1,49 @@
+.result {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  
+.card {
+    cursor: pointer;
+    margin: auto;
+}
+  
+.flag {
+    height: 165px;
+    margin: 15px;
+    border-radius: 8px;
+}
+  
+body {
+    background-image: url('https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700367934.jpg'); 
+    background-size:100%;
+}
+  
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#button{
+    text-align: center;
+    margin-bottom: 20px;
+}
+#next,#prev{
+  background-color: black;
+  color: white;
+}
+#next:hover{
+  background-color: white;
+  color: black;
+}
+#prev:hover{
+  background-color: white;
+  color: black;
+}
+
+
+
+
+
+
